@@ -1,6 +1,6 @@
 # 🎀 moonsec-v2-deobfuscator
 Today, we'll propose to you our MoonSec v2 Deobfuscator Service <br>
-[Preview] -> SOON
+[Preview] -> https://www.youtube.com/watch?v=va4LDSqTiMc
 
 [Discord] -> https://discord.gg/b9GAkfkRbH
 
